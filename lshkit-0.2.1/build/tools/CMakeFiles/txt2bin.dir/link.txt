@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/txt2bin.dir/txt2bin.cpp.o  -o ../bin/txt2bin  ../lib/liblshkit.a /usr/lib/x86_64-linux-gnu/libboost_program_options.a -lgsl -lgslcblas 

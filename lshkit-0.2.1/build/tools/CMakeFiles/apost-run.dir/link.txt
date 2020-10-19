@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/apost-run.dir/apost-run.cpp.o  -o ../bin/apost-run  ../lib/liblshkit.a /usr/lib/x86_64-linux-gnu/libboost_program_options.a -lgsl -lgslcblas 

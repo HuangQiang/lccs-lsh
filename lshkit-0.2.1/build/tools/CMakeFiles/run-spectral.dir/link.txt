@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/run-spectral.dir/run-spectral.cpp.o  -o ../bin/run-spectral  ../lib/liblshkit.a /usr/lib/x86_64-linux-gnu/libboost_program_options.a -lgsl -lgslcblas 

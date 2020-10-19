@@ -1,6 +1,7 @@
 #ifndef __KD_NODE_H
 #define __KD_NODE_H
 
+#include <vector>
 class MinK_List;
 
 // -----------------------------------------------------------------------------

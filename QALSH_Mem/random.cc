@@ -1,5 +1,3 @@
-#include <algorithm>
-
 #include "def.h"
 #include "random.h"
 

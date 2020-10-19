@@ -35,4 +35,4 @@ ann.o: ann.h
 main.o:
 
 clean:
-	-rm ${OBJS}
+	-rm ${OBJS} qalsh
